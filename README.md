@@ -3,4 +3,4 @@ Watch a file and have it dos2unix'ed on changes (e.g. csv files from WebNodes / 
 
 More options and convenience will be added later 4sure, e.g. auto-choosing the latest file in a specified folder (handy for WebNodes logs). 
 
-Download .exe or zipped source from the latest release [here](https://github.com/Rodge/watcher4dos2unix/releases/latest)
+Download the latest `watcher4dos2unix.exe` or zipped source [here](https://github.com/Rodge/watcher4dos2unix/releases/latest).
