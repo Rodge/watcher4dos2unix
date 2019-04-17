@@ -16,7 +16,7 @@ namespace watcher4dos2unix
             FileInfo fileInfo = new FileInfo(args);
             if (!fileInfo.IsAllGood())
             {
-                Console.WriteLine("Usage: dos2unixWatcher <path to file>");
+                Console.WriteLine("Usage: watcher4dos2unix <path to file>");
                 return;
             }
 
